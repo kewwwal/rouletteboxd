@@ -124,7 +124,7 @@
       li.${CONFIG.SEL_CLASS} .poster,
       div.${CONFIG.SEL_CLASS} .poster {
         opacity: 1 !important;
-        outline: 4px solid #00e054 !important;
+        outline: 2px solid #00e054 !important;
         outline-offset: -1px !important;
         box-shadow: 0 0 30px rgba(0, 224, 84, 0.4) !important;
         z-index: 9998;
