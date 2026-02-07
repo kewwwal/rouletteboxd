@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         rouletteboxd
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/kewwwal/
 // @version      7.4
 // @description  don't know what to watch? press r to roll.
 // @author       kewwwal
