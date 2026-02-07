@@ -5,9 +5,13 @@
 // @description  don't know what to watch? press r to roll.
 // @author       kewwwal
 // @match        https://letterboxd.com/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=letterboxd.com
-// @run-at       document-idle
+// @icon         https://a.ltrbxd.com/logos/letterboxd-mac-icon.png
+// @homepageURL  https://github.com/kewwwal/rouletteboxd
+// @supportURL   https://github.com/kewwwal/rouletteboxd/issues
+// @updateURL    https://raw.githubusercontent.com/kewwwal/rouletteboxd/main/main.user.js
+// @downloadURL  https://raw.githubusercontent.com/kewwwal/rouletteboxd/main/main.user.js
 // @license      MIT
+// @run-at       document-idle
 // @grant        none
 // ==/UserScript==
 
