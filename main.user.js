@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         rouletteboxd
-// @namespace    https://github.com/kewwwal/
+// @namespace    https://github.com/jpeglol/
 // @version      7.4
 // @description  don't know what to watch? press r to roll.
-// @author       kewwwal
+// @author       jpeglol
 // @match        https://letterboxd.com/*
 // @icon         https://a.ltrbxd.com/logos/letterboxd-mac-icon.png
-// @homepageURL  https://github.com/kewwwal/rouletteboxd
-// @supportURL   https://github.com/kewwwal/rouletteboxd/issues
-// @updateURL    https://raw.githubusercontent.com/kewwwal/rouletteboxd/main/main.user.js
-// @downloadURL  https://raw.githubusercontent.com/kewwwal/rouletteboxd/main/main.user.js
+// @homepageURL  https://github.com/jpeglol/rouletteboxd
+// @supportURL   https://github.com/jpeglol/rouletteboxd/issues
+// @updateURL    https://raw.githubusercontent.com/jpeglol/rouletteboxd/main/main.user.js
+// @downloadURL  https://raw.githubusercontent.com/jpeglol/rouletteboxd/main/main.user.js
 // @license      MIT
 // @run-at       document-idle
 // @grant        none
@@ -345,7 +345,7 @@
       overlay.appendChild(infoContainer);
 
       const gremlinImg = document.createElement('img');
-      gremlinImg.src = "https://raw.githubusercontent.com/kewwwal/rouletteboxd/main/assets/gremlin.png";
+      gremlinImg.src = "https://raw.githubusercontent.com/jpeglol/rouletteboxd/main/assets/gremlin.png";
       gremlinImg.style.cssText = "height: 240px; width: auto; display: block; margin: 0 auto 30px auto; filter: drop-shadow(0 10px 15px rgba(0,0,0,0.5));";
       gremlinImg.alt = "Gremlin";
       infoContainer.appendChild(gremlinImg);
